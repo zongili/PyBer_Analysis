@@ -21,6 +21,6 @@ Overall rural area fares around 5K, suburban fares are 2K and urban fares are 4K
 
 ## Summary: 
 Based on the results three business recommendations to the CEO for addressing any disparities among the city types:
-1. In rural areas increasing the number of drivers would increase the average fare per driver allowing more drivers to earn income and creating jobs
-2. Lowering the number of drivers in Urban areas would increase the average fare per driver resulting in more income for drivers
-3. For the suburban cities there is sharp decline on the number fares at the end of February to March. If this is the annual decline you can reduce the number of drivers during this period to cut on your cost. This would also increase the income for the rest of the drivers.
+1. In rural areas increasing the number of drivers would decrease the average fare per driver allowing more drivers to earn income and creating jobs
+2. Lowering the number of drivers in Urban areas would increase the average fare per driver resulting in more income for less drivers
+3. For the suburban cities there is sharp decline on the number of fares at the end of February to March. If this is the annual decline you can reduce the number of drivers during this period to cut on your cost. This would also increase the income for the rest of the drivers.
